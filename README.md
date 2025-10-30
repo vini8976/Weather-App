@@ -21,18 +21,16 @@ React.js	Frontend UI
 OpenWeatherMap API	Live weather data
 CSS	Basic styling
 Vite	Fast React build tool
+
+
 📸 Screenshot
-
-(Insert your app image here later if you want)
-Example:
-
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](weather-app/public/pexels-roacunha-2531709.jpg)
 
 🚀 Getting Started (Run Locally)
 
 1️⃣ Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/WEATHER-APP-REPO.git
+git clone https://github.com/vini8976/weather-app.git
 
 
 2️⃣ Go to the project folder
