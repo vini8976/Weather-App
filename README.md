@@ -1,16 +1,72 @@
-# React + Vite
+🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weather App is a simple and beginner-friendly web application built using React.js.
+It allows users to search any city and view real-time weather details using the OpenWeatherMap API.
 
-Currently, two official plugins are available:
+✅ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌍 Search weather by city name
 
-## React Compiler
+🌡 Displays Temperature in °C
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⛅ Shows current weather conditions
 
-## Expanding the ESLint configuration
+⚡ Fast UI & clean design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive and beginner-friendly project
+
+🛠️ Tech Stack
+Technology	Purpose
+React.js	Frontend UI
+OpenWeatherMap API	Live weather data
+CSS	Basic styling
+Vite	Fast React build tool
+📸 Screenshot
+
+(Insert your app image here later if you want)
+Example:
+
+![Weather App Screenshot](./screenshot.png)
+
+🚀 Getting Started (Run Locally)
+
+1️⃣ Clone the repository
+
+git clone https://github.com/YOUR-USERNAME/WEATHER-APP-REPO.git
+
+
+2️⃣ Go to the project folder
+
+cd weather-app
+
+
+3️⃣ Install dependencies
+
+npm install
+
+
+4️⃣ Start the development server
+
+npm run dev
+
+🔑 API Used
+
+Weather data provided by:
+🔗 https://openweathermap.org/api
+
+Make sure you create your own free API key while working on the project.
+
+📌 What I learned
+
+How to create components in React
+
+Using useState hook for managing data
+
+Fetching data using fetch() API
+
+Handling user input in React apps
+
+📬 Author
+
+👤 Vinita Prakash Singh
+📍 Student | Aspiring Frontend Developer
